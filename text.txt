@@ -1,0 +1,4 @@
+#I am practicing Git.
+##Learning by doing
+### :)
+print ("Hello World")
